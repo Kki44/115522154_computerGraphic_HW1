@@ -1,0 +1,2 @@
+# 115522154_computerGraphic_HW1
+碩一上3D計算機圖學HW1
